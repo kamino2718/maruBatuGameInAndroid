@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">〇✕ゲーム</string>
+    <string name="game_title">〇✕ゲーム</string>
+    <string name="_true">〇</string>
+    <string name="_false">✕</string>
+    <string name="_empty"> </string>
+    <string name="turn">ターン数</string>
+    <string name="firstOrSecond">現在のプレイヤー</string>
+    <string name="first">先攻</string>
+    <string name="second">後攻</string>
+    <string name="reset">リセット</string>
+</resources>
